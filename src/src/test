@@ -1,0 +1,33 @@
+getting handlers..
+getting pattern for cpp
+using directory : ./
+searching files using wildcards : c cpp h hh 
+searching ./
+c ..  
+cpp .. ./encrypt.cpp./logmgr.cpp./main.cpp./meetingmgr.cpp 
+h .. ./cmd.h./cmdrunner.h./encrypt.h./logmgr.h./meeting.h./meetingmgr.h./time.h./ui.h./user.h./usermgr.h./util.h 
+hh ..  
+
+
+AutoDia - version 2.10(c) Copyright 2003 A Trevena
+
+using language : cpp
+
+..using Autodia::Handler::Cpp
+opening ./encrypt.cpp
+opening ./logmgr.cpp
+opening ./main.cpp
+opening ./meetingmgr.cpp
+opening ./cmd.h
+opening ./cmdrunner.h
+opening ./encrypt.h
+opening ./logmgr.h
+opening ./meeting.h
+opening ./meetingmgr.h
+opening ./time.h
+opening ./ui.h
+opening ./user.h
+opening ./usermgr.h
+opening ./util.h
+complete. (processed 15 files)
+

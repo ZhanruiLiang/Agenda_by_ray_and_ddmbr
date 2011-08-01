@@ -1,0 +1,6 @@
+you can type the following commands:
+	login [user]
+
+	logout
+
+	.....
