@@ -14,7 +14,8 @@
 // 
 // =====================================================================================
 #include <ctime>
-class Time:public time_t
+//class Time:public time_t
+class Time
 {
 
 };

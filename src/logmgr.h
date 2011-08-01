@@ -13,6 +13,10 @@
 //        Company:  
 // 
 // =====================================================================================
+#include<string>
+#include "time.h"
+
+using std::string;
 class LogMgr
 {
 public:

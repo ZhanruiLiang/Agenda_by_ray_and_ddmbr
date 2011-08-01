@@ -13,8 +13,19 @@
 //        Company:  
 // 
 // =====================================================================================
+#include<string>
+#include<map>
+using std::map;
+using std::string;
+
 class Encrypt
 {
-	string encode(string data);
-	string decode(string data);
+	public:
+		Encrypt();
+
+		string encode(const string data);
+		string decode(const string data);
+	private:
+		bool isAllow(char c);
+		map<char,char> _encmap, _decmap;
 };

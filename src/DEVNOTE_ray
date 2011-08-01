@@ -1,4 +1,13 @@
 classes:
 	Cmd
 	CmdRunner
+	Encrypt
+	UI
+	Util
+
+	User
+	UserMgr
+	Meeting
+	MeetingMgr
+	LogMgr
 

@@ -15,9 +15,9 @@ class Cmd{
 		string name(){
 			return _args[0];
 		}
-                int argc(){
-                    return _args.size() - 1;
-                }
+		int argc(){
+			return _args.size() - 1;
+		}
 	private:
 		vector<string> _args;
 		int _pos;
